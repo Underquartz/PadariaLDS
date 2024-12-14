@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PadariaKairos
-build_property.ProjectDir = C:\Users\202212030008\Downloads\PadariaKairos-20241214T163930Z-001\PadariaKairos\PadariaKairos\
+build_property.ProjectDir = C:\Users\202212030008\Documents\PadariaLDS\PadariaKairos\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -51,16 +51,18 @@
             panel1.Controls.Add(pictureBox1);
             panel1.Controls.Add(label1);
             panel1.Location = new Point(0, 0);
+            panel1.Margin = new Padding(1, 1, 1, 1);
             panel1.Name = "panel1";
-            panel1.Size = new Size(2264, 138);
+            panel1.Size = new Size(977, 43);
             panel1.TabIndex = 0;
             // 
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(715, 18);
+            pictureBox1.Location = new Point(250, 6);
+            pictureBox1.Margin = new Padding(1, 1, 1, 1);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(97, 94);
+            pictureBox1.Size = new Size(34, 29);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 1;
             pictureBox1.TabStop = false;
@@ -71,9 +73,10 @@
             label1.CausesValidation = false;
             label1.Font = new Font("Cascadia Code", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = SystemColors.ControlLightLight;
-            label1.Location = new Point(845, 18);
+            label1.Location = new Point(296, 6);
+            label1.Margin = new Padding(1, 0, 1, 0);
             label1.Name = "label1";
-            label1.Size = new Size(645, 85);
+            label1.Size = new Size(221, 29);
             label1.TabIndex = 0;
             label1.Text = "Estoque Produtos";
             // 
@@ -82,10 +85,11 @@
             dataGridView1.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Nome, Quantidade, Categoria, Status, idProduto });
-            dataGridView1.Location = new Point(26, 164);
+            dataGridView1.Location = new Point(9, 51);
+            dataGridView1.Margin = new Padding(1, 1, 1, 1);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 123;
-            dataGridView1.Size = new Size(1626, 711);
+            dataGridView1.Size = new Size(754, 222);
             dataGridView1.TabIndex = 1;
             // 
             // Nome
@@ -131,22 +135,24 @@
             button1.ForeColor = SystemColors.ControlLightLight;
             button1.Image = (Image)resources.GetObject("button1.Image");
             button1.ImageAlign = ContentAlignment.MiddleLeft;
-            button1.Location = new Point(1676, 174);
+            button1.Location = new Point(765, 161);
+            button1.Margin = new Padding(1, 1, 1, 1);
             button1.Name = "button1";
-            button1.Size = new Size(576, 135);
+            button1.Size = new Size(202, 42);
             button1.TabIndex = 2;
             button1.Text = "Comprar Produto";
             button1.UseVisualStyleBackColor = false;
             // 
             // FormEstoque
             // 
-            AutoScaleDimensions = new SizeF(20F, 48F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(2264, 905);
+            ClientSize = new Size(864, 471);
             Controls.Add(button1);
             Controls.Add(dataGridView1);
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.None;
+            Margin = new Padding(1, 1, 1, 1);
             Name = "FormEstoque";
             Text = "FormEstoque";
             Load += FormEstoque_Load;
