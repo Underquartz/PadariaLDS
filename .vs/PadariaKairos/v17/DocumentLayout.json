@@ -3,11 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|c:\\users\\f3lip\\source\\repos\\padariakairos\\padariakairos\\view\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\view\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\padariakairos\\view\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\view\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|c:\\users\\f3lip\\source\\repos\\padariakairos\\padariakairos\\view\\formestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\view\\formestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|c:\\users\\f3lip\\source\\repos\\padariakairos\\padariakairos\\view\\formpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\view\\formpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\padariakairos\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|c:\\users\\f3lip\\source\\repos\\padariakairos\\padariakairos\\view\\formestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\view\\formestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|c:\\users\\f3lip\\source\\repos\\padariakairos\\padariakairos\\view\\formprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\padariakairos\\formadicionarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\formadicionarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\padariakairos\\view\\formprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\view\\formprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,12 +39,8 @@
       "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\view\\formprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|c:\\users\\f3lip\\source\\repos\\padariakairos\\padariakairos\\formadicionarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\formadicionarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|c:\\users\\f3lip\\source\\repos\\padariakairos\\padariakairos\\view\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\view\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|c:\\users\\f3lip\\source\\repos\\padariakairos\\padariakairos\\formadicionarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\formadicionarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\padariakairos\\view\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -29,18 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|c:\\users\\f3lip\\source\\repos\\padariakairos\\padariakairos\\view\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\view\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|c:\\users\\f3lip\\source\\repos\\padariakairos\\padariakairos\\formadicionarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\formadicionarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|c:\\users\\f3lip\\source\\repos\\padariakairos\\padariakairos\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|c:\\users\\f3lip\\source\\repos\\padariakairos\\padariakairos\\view\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4B41633-4311-4AAC-9A16-507DA667E1EE}|PadariaKairos\\PadariaKairos.csproj|solutionrelative:padariakairos\\view\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 257,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +70,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "FormPedido.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\FormPedido.cs",
+              "RelativeDocumentMoniker": "PadariaKairos\\View\\FormPedido.cs",
+              "ToolTip": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\FormPedido.cs [Projeto]",
+              "RelativeToolTip": "PadariaKairos\\View\\FormPedido.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:54:05.647Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormEstoque.cs",
+              "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\FormEstoque.cs",
+              "RelativeDocumentMoniker": "PadariaKairos\\View\\FormEstoque.cs",
+              "ToolTip": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\FormEstoque.cs",
+              "RelativeToolTip": "PadariaKairos\\View\\FormEstoque.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:43:37.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FormEstoque.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\FormEstoque.cs",
               "RelativeDocumentMoniker": "PadariaKairos\\View\\FormEstoque.cs",
@@ -74,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "FormCadastro.cs",
               "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\FormCadastro.cs",
               "RelativeDocumentMoniker": "PadariaKairos\\View\\FormCadastro.cs",
@@ -87,20 +120,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "FormMain.cs",
               "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\FormMain.cs",
               "RelativeDocumentMoniker": "PadariaKairos\\View\\FormMain.cs",
               "ToolTip": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\FormMain.cs",
               "RelativeToolTip": "PadariaKairos\\View\\FormMain.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAIA9wGYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAnwG8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T12:55:14.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\Form1.cs",
               "RelativeDocumentMoniker": "PadariaKairos\\View\\Form1.cs",
@@ -112,20 +145,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FormAdicionarProduto.cs",
               "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\FormAdicionarProduto.cs",
               "RelativeDocumentMoniker": "PadariaKairos\\FormAdicionarProduto.cs",
               "ToolTip": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\FormAdicionarProduto.cs",
               "RelativeToolTip": "PadariaKairos\\FormAdicionarProduto.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAIA9wB8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwB8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T12:28:50.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "FormAdicionarProduto.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\FormAdicionarProduto.cs",
               "RelativeDocumentMoniker": "PadariaKairos\\FormAdicionarProduto.cs",
@@ -137,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "FormProdutos.cs",
               "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\FormProdutos.cs",
               "RelativeDocumentMoniker": "PadariaKairos\\View\\FormProdutos.cs",
@@ -150,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "FormProdutos.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\FormProdutos.cs",
               "RelativeDocumentMoniker": "PadariaKairos\\View\\FormProdutos.cs",
@@ -162,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FormMain.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\FormMain.cs",
               "RelativeDocumentMoniker": "PadariaKairos\\View\\FormMain.cs",
@@ -174,15 +207,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "FormCadastro.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\FormCadastro.cs",
               "RelativeDocumentMoniker": "PadariaKairos\\View\\FormCadastro.cs",
               "ToolTip": "C:\\Users\\f3lip\\source\\repos\\PadariaKairos\\PadariaKairos\\View\\FormCadastro.cs [Projeto]",
               "RelativeToolTip": "PadariaKairos\\View\\FormCadastro.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T02:12:31.656Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-12-14T02:12:31.656Z"
             }
           ]
         },

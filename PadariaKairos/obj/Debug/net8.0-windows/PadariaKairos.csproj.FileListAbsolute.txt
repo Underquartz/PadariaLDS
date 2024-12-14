@@ -21,3 +21,4 @@ C:\Users\f3lip\source\repos\PadariaKairos\PadariaKairos\obj\Debug\net8.0-windows
 C:\Users\f3lip\source\repos\PadariaKairos\PadariaKairos\obj\Debug\net8.0-windows\PadariaKairos.FormLogin.resources
 C:\Users\f3lip\source\repos\PadariaKairos\PadariaKairos\obj\Debug\net8.0-windows\PadariaKairos.sourcelink.json
 C:\Users\f3lip\source\repos\PadariaKairos\PadariaKairos\obj\Debug\net8.0-windows\PadariaKairos.FormAdicionarProduto.resources
+C:\Users\f3lip\source\repos\PadariaKairos\PadariaKairos\obj\Debug\net8.0-windows\PadariaKairos.View.FormEstoque.resources

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PadariaKairos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4dd62440a236d7f5ad52d220afb841e3078bcc4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3191c7cacd364b6aea3265881a34cdfdd9a6c81")]
 [assembly: System.Reflection.AssemblyProductAttribute("PadariaKairos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PadariaKairos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

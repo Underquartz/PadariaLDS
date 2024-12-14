@@ -112,6 +112,7 @@
             btnPedidos.TabIndex = 2;
             btnPedidos.Text = "Gerenciar Pedidos";
             btnPedidos.UseVisualStyleBackColor = true;
+            btnPedidos.Click += btnPedidos_Click;
             // 
             // btnProdutos
             // 

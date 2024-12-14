@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
+using PadariaKairos.View;
 
 namespace PadariaKairos
 {
@@ -90,7 +91,8 @@ namespace PadariaKairos
 
         private void btnEstoque_Click(object sender, EventArgs e)
         {
-
+            FormEstoque formEstoque = new FormEstoque();
+            abrirFormPainelFill(formEstoque);
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -101,7 +103,13 @@ namespace PadariaKairos
             }
             else
                 panelLeft.Width = 312;
-            
+
+        }
+
+        private void btnPedidos_Click(object sender, EventArgs e)
+        {
+            FormPedido formPedido = new FormPedido();
+            abrirFormPainelFill(formPedido);
         }
     }
 }
